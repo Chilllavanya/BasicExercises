@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BasicExcercise.iml" filepath="$PROJECT_DIR$/.idea/BasicExcercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstClass/FirstClass.iml" filepath="$PROJECT_DIR$/FirstClass/FirstClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstMethodChallenge/FirstMethodChallenge.iml" filepath="$PROJECT_DIR$/FirstMethodChallenge/FirstMethodChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" filepath="$PROJECT_DIR$/IfKeywordAndCodeBlocks/IfKeywordAndCodeBlocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" filepath="$PROJECT_DIR$/InheritanceChallenge/InheritanceChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" filepath="$PROJECT_DIR$/MethodOverloading/MethodOverloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedClasses/NestedClasses.iml" filepath="$PROJECT_DIR$/NestedClasses/NestedClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberToWords/NumberToWords.iml" filepath="$PROJECT_DIR$/NumberToWords/NumberToWords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism/Polymorphism.iml" filepath="$PROJECT_DIR$/Polymorphism/Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch/Switch.iml" filepath="$PROJECT_DIR$/Switch/Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchExpression/SwitchExpression.iml" filepath="$PROJECT_DIR$/SwitchExpression/SwitchExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheForLoop/TheForLoop.iml" filepath="$PROJECT_DIR$/TheForLoop/TheForLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" filepath="$PROJECT_DIR$/ThePrimeNumberChallenge/ThePrimeNumberChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileLoop/WhileLoop.iml" filepath="$PROJECT_DIR$/WhileLoop/WhileLoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch2/switch2.iml" filepath="$PROJECT_DIR$/switch2/switch2.iml" />
+    </modules>
+  </component>
+</project>
